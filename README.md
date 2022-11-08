@@ -25,6 +25,6 @@
 
 ## More Info
 
-[oauth.net](https://oauth.net)
+[oauth.net/specs](https://oauth.net/specs/)
 
 
