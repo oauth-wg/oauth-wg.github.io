@@ -23,6 +23,12 @@
 * In-progress draft: <https://drafts.oauth.net/oauth-selective-disclosure-jwt/draft-ietf-oauth-selective-disclosure-jwt.html>
 * Latest published draft: <https://datatracker.ietf.org/doc/html/draft-ietf-oauth-selective-disclosure-jwt>
 
+## Cross-Device Security
+
+* Source: <https://github.com/oauth-wg/oauth-cross-device-security>
+* In-progress draft: <https://drafts.oauth.net/oauth-cross-device-security/draft-ietf-oauth-cross-device-security.html>
+* Latest published draft: <https://datatracker.ietf.org/doc/html/draft-ietf-oauth-cross-device-security>
+
 ## More Info
 
 [oauth.net/specs](https://oauth.net/specs/)
